@@ -6,6 +6,6 @@ using namespace std;
 int main(void){
 	int n;	
 	cin >> n;
-	cout << sum(n) << enld;
+	cout << sum(n) << endl;
 	return 0;
 }
